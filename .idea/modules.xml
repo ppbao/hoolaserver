@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hoola-client/hoola-client.iml" filepath="$PROJECT_DIR$/hoola-client/hoola-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-common/hoola-common.iml" filepath="$PROJECT_DIR$/hoola-common/hoola-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-compress/hoola-compress.iml" filepath="$PROJECT_DIR$/hoola-compress/hoola-compress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-datacenter/hoola-datacenter.iml" filepath="$PROJECT_DIR$/hoola-datacenter/hoola-datacenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-manager/hoola-manager.iml" filepath="$PROJECT_DIR$/hoola-manager/hoola-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-portal/hoola-portal.iml" filepath="$PROJECT_DIR$/hoola-portal/hoola-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-redis/hoola-redis.iml" filepath="$PROJECT_DIR$/hoola-redis/hoola-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-upload/hoola-upload.iml" filepath="$PROJECT_DIR$/hoola-upload/hoola-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-common/hoola.common.dao/hoola.common.dao.iml" filepath="$PROJECT_DIR$/hoola-common/hoola.common.dao/hoola.common.dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-common/hoola.common.model/hoola.common.model.iml" filepath="$PROJECT_DIR$/hoola-common/hoola.common.model/hoola.common.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-common/hoola.common.share/hoola.common.share.iml" filepath="$PROJECT_DIR$/hoola-common/hoola.common.share/hoola.common.share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-common/hoola.common.utils/hoola.common.utils.iml" filepath="$PROJECT_DIR$/hoola-common/hoola.common.utils/hoola.common.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-datacenter/hoola.datacenter.server/hoola.datacenter.server.iml" filepath="$PROJECT_DIR$/hoola-datacenter/hoola.datacenter.server/hoola.datacenter.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-datacenter/hoola.datacenter.web/hoola.datacenter.web.iml" filepath="$PROJECT_DIR$/hoola-datacenter/hoola.datacenter.web/hoola.datacenter.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-manager/hoola.manager.dao/hoola.manager.dao.iml" filepath="$PROJECT_DIR$/hoola-manager/hoola.manager.dao/hoola.manager.dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-manager/hoola.manager.service/hoola.manager.service.iml" filepath="$PROJECT_DIR$/hoola-manager/hoola.manager.service/hoola.manager.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-manager/hoola.manager.web/hoola.manager.web.iml" filepath="$PROJECT_DIR$/hoola-manager/hoola.manager.web/hoola.manager.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-portal/hoola.portal.service/hoola.portal.service.iml" filepath="$PROJECT_DIR$/hoola-portal/hoola.portal.service/hoola.portal.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-portal/hoola.portal.web/hoola.portal.web.iml" filepath="$PROJECT_DIR$/hoola-portal/hoola.portal.web/hoola.portal.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-redis/hoola.redis.service/hoola.redis.service.iml" filepath="$PROJECT_DIR$/hoola-redis/hoola.redis.service/hoola.redis.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-redis/hoola.redis.utils/hoola.redis.utils.iml" filepath="$PROJECT_DIR$/hoola-redis/hoola.redis.utils/hoola.redis.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-upload/hoola.upload.deploy/hoola.upload.deploy.iml" filepath="$PROJECT_DIR$/hoola-upload/hoola.upload.deploy/hoola.upload.deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoola-upload/hoola.upload.service/hoola.upload.service.iml" filepath="$PROJECT_DIR$/hoola-upload/hoola.upload.service/hoola.upload.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoolaserver.iml" filepath="$PROJECT_DIR$/hoolaserver.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hoola.manager.web:war">
+    <output-path>$PROJECT_DIR$/hoola-manager/hoola.manager.web/target</output-path>
+    <root id="archive" name="hoola.manager.web.war">
+      <element id="artifact" artifact-name="hoola.manager.web:war exploded" />
+    </root>
+  </artifact>
+</component>

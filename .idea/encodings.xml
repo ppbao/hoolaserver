@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-common/hoola.common.dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-common/hoola.common.model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-common/hoola.common.share" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-common/hoola.common.utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-compress" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-datacenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-datacenter/hoola.datacenter.server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-datacenter/hoola.datacenter.web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-manager/hoola.manager.dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-manager/hoola.manager.service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-manager/hoola.manager.web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-portal/hoola.portal.service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-portal/hoola.portal.web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-redis/hoola.redis.service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-redis/hoola.redis.utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-upload/hoola.upload.deploy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hoola-upload/hoola.upload.service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hoola.datacenter.web:war">
+    <output-path>$PROJECT_DIR$/hoola-datacenter/hoola.datacenter.web/target</output-path>
+    <root id="archive" name="hoola.datacenter.web.war">
+      <element id="artifact" artifact-name="hoola.datacenter.web:war exploded" />
+    </root>
+  </artifact>
+</component>
